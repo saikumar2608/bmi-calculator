@@ -24,6 +24,9 @@ A simple yet powerful health tool built using **Python** and **Streamlit**, base
 ✅ Muscularity adjustment  
 ✅ Built with CDC-backed logic  
 ✅ User-friendly CLI & Streamlit frontend
+![Screenshot 2025-07-09 142053](https://github.com/user-attachments/assets/487ec972-000f-46ea-b266-dc5e36912537)
+![image](https://github.com/user-attachments/assets/55815b48-3469-4de8-88a1-49dd945f92e9)
+
 
 ---
 
