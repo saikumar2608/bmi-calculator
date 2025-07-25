@@ -126,7 +126,7 @@ with st.expander("References & Medical Disclaimer"):
     **Sources:**
     - World Health Organization (WHO): [Waist Circumference and Waist-Hip Ratio Report (2008)](https://www.who.int/publications/i/item/9789241501491)
     - WHO BMI Classification: [Obesity and Overweight](https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight)
-    - ICMR-NIN Dietary Guidelines for Indians: [PDF](https://www.nin.res.in/downloads/DietaryGuidelinesforIndians-Finaldraft.pdf)
+    - ICMR-NIN Dietary Guidelines for Indians: [PDF](https://www.nin.res.in/dietaryguidelines/pdfjs/locale/DGI07052024P.pdf)
 
     ⚠️ **Disclaimer**  
     This calculator provides general health risk estimation based on BMI and waist metrics.  
